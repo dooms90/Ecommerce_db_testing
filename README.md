@@ -31,13 +31,15 @@ This project tests the database layer of an E-Commerce system including:
 
 ## 📁 Project Structure
 
+```text
 ecommerce_testing/
-├── myenvx/                 # Virtual Environment
-├── conftest.py             # Test Fixtures & Setup
-├── database.py             # MySQL Database Connection
-├── test_ecommerce.py       # All Test Cases (19 Tests)
-├── requirements.txt        # Project Dependencies
-└── README.md               # Project Documentation
+├── myenvx/                # Virtual Environment
+├── conftest.py            # Test Fixtures & Setup
+├── database.py            # MySQL Database Connection
+├── test_ecommerce.py      # All Test Cases (19 Tests)
+├── requirements.txt       # Project Dependencies
+└── README.md              # Project Documentation
+```
 
 
 ---
