@@ -5,7 +5,7 @@ to test an E-Commerce system database.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project tests the database layer of an E-Commerce system including:
 - Products Management
@@ -16,7 +16,7 @@ This project tests the database layer of an E-Commerce system including:
 
 ---
 
-## 🛠️ Technologies Used
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -29,7 +29,7 @@ This project tests the database layer of an E-Commerce system including:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ecommerce_testing/
@@ -44,7 +44,7 @@ ecommerce_testing/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### Tables:
 - **products** → Stores all products
@@ -55,9 +55,9 @@ ecommerce_testing/
 
 ---
 
-## 🧪 Test Cases
+## Test Cases
 
-### ✅ Positive Test Cases (12):
+### Positive Test Cases (12):
 | Test | Description |
 |---|---|
 | test_add_product | Add new product |
@@ -73,7 +73,7 @@ ecommerce_testing/
 | test_add_review | Add product review |
 | test_get_all_reviews | Fetch all reviews |
 
-### ❌ Negative Test Cases (7):
+### Negative Test Cases (7):
 | Test | Description |
 |---|---|
 | test_add_product_empty_name | Empty product name not allowed |
