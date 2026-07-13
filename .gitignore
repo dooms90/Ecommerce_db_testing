@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+myenvx/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# HTML Report
+report.html
+
+# Environment variables
+.env
