@@ -15,7 +15,6 @@ This project tests the database layer of an E-Commerce system including:
 - Product Reviews
 
 ---
-
 ## Tech Stack
 
 | Technology | Purpose |
