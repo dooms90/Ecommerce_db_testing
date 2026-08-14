@@ -53,7 +53,6 @@ ecommerce_testing/
 - **reviews** → Stores all product reviews
 
 ---
-
 ## Test Cases
 
 ### Positive Test Cases (12):
