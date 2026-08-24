@@ -42,7 +42,6 @@ ecommerce_testing/
 
 
 ---
-
 ## Database Schema
 
 ### Tables:
